@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLite Kotlin</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="save">Save</string>
+</resources>
